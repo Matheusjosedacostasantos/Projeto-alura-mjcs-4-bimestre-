@@ -1,0 +1,135 @@
+  * /http: //Meyer Web (em inglês) Web (em inglês) (em inglês)   .com/eric/ferramentas/css/reset/ //meyerweb.com/eric/tools/css/reset/    
+ V2.0 | 2016 .0  |  2016 2016 .0  |  2016 
+       Licença:     Nenhum (domínio público)  Nenhum  (domínio público)    Nenhum   (domínio público)  Nenhum  (domínio público)   
+*/
+
+HTML,
+corpo,
+Div,
+vão,
+applet,
+objeto,
+Se o quadro,
+H1,
+H2,
+H3,
+H4,
+H5,
+H6,
+P,
+citação de blocos,
+Pré,
+A,
+Abr,
+acronym,
+endereço,
+Grande,
+Cita,
+código,
+Del,
+Porquê,
+em,
+Estou,
+Pousadas,
+KBD,
+Q,
+S,
+Sampão,
+Pequeno,
+greve,
+forte,
+Sub,
+Sup,
+TT,
+Var,
+B,
+U,
+Eu,
+centro,
+DL,
+Dt,
+DD,
+Olha,
+UL,
+Li,
+Conjunto de campos,
+forma,
+rótulo,
+Lenda,
+mesa,
+Legenda,
+Pessoal,
+Pé,
+O pai,
+Tr,
+Então,
+TD,
+artigo,
+À parte,
+lona,
+detalhes,
+incorporar,
+figura,
+captação,
+rodapé,
+Cabeçalho,
+grupo,
+menu,
+Nav,
+saída,
+Ruby,
+secção,
+Resumo,
+tempo,
+marca,
+áudio,
+Vídeo {
+     Margem:    0  ;    0;  
+  preenchimento:  0;  
+ Fronteira: 0; 
+ Tamanho da fonte: 100%; 
+ Fonte: Herd; 
+ Vertical-alinhado: linha de base; 
+}
+
+/* Redefinição de função de exibição HTML5 para navegadores mais antigos */
+artigo,
+À parte,
+detalhes,
+captação,
+figura,
+rodapé,
+Cabeçalho,
+grupo,
+menu,
+Nav,
+Secção {
+ Exibição: bloco; 
+}
+
+Corpo {
+ Altura da linha: 1; 
+}
+
+Olha,
+corpo,{
+ Estilo de lista: nenhum; 
+}
+
+citação de blocos,
+Q {
+ Citações: Nenhum; 
+}
+
+Blockquote: Antes,
+Blockquote: Depois,
+Q: Antes,
+Q: Depois {
+ Conteúdo: ''; 
+ Conteúdo: Nenhum; 
+}
+
+mesa 
+ colapso da fronteira: colapso; 
+ Espaçamento fronteiriço: 0; 
+}
