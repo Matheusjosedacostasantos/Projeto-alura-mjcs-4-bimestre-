@@ -1,0 +1,27 @@
+URL de importaçãimportaçã("estilos/header.css"); o. o. ("estilos/header.css");
+@importa@importa  Nossa  ("estilos/banner.css"    ;Importação    Nossa nossa nossa   alma("estilos/banner.css";
+@importa@importa   ção URL  URL     ("estilos/carrossel.css" ;Importação URL  URL   ("estilos/carrossel.css";
+@importa@importação URL ("estilos/tópicos.css" ;Importação URL  URL   ("estilos/tópicos.css";
+@importa@importação  Nossa("estilos/contato.css";Importação  URLURLURLURL("estilos/contato.css";
+@importa@importaçãoçãoçãoção  Nossa  ("estilos/rodapé.css"     ;Importação    Nossa nossa nossa    alma("estilos/rodapé.css";
+
+
+:raiz  
+   --cor-de-fundo:   
+ --Branco: #ft; #ft; 
+ --laranja: 
+ --azul-grau:  linear-97,54deg, #35,49%, #165,37%97,54deg, #35,49%, #165,37%
+        --fonte-principal:   "Poppins"  ;    "Poppins"  ;    
+ --azul: #002F52; 
+                    --fonte-secundário:                    "Josefin Sans" (em  inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em  inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em  inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em  inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em  inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em  inglês) (em inglês) (em inglês) (em inglês) (em inglês) (     em   inglês       ) (em inglês) (em inglês) (em inglês) (em inglês) (em inglês) (em  inglês) (em inglês) (em inglês) (em inglês) (        em   inglês          ) (em inglês) (em inglês) (em inglês) (em  inglês) (em inglês) (em  inglês) (em inglês) (             inglês           ) (em  inglês) (em inglês) (em  inglês) (em  inglês) (                inglês              ) (em inglês)        ;          "Josefin Sans" (em inglês) (em inglês)        ;          
+ --preto: #0000; 
+ --cinza: #474646; 
+ --cinza-claro: #8585; 
+}
+
+  Corpo    
+   Fundo-cor:   Var 
+     Fonte-família:    VAR(--fonte-principal)  ;    VAR(--fonte-principal)   ;     VAR(--fonte-principal)  ;    VAR(--fonte-principal)  ;      VAR(--fonte-principal)  ;    VAR(--fonte-principal)  ;     
+    Tamanho da fonte:    Px; 16px; 
+    Peso da fonte:   400;  400;   
+}
